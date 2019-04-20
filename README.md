@@ -2,6 +2,13 @@
 
 Project created as an assignment for Udacity BlockChain Developer Nanodegree Program - Project 5.
 
+Generated the following Token
+
+```
+name = "BSG Udacity Token"
+symbol = "BSGUT"
+```
+
 It was designed using these core technologies:
 
 ```
